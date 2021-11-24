@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KK3319
-- 👀 I’m interested in Weab Apps,Front-End Dev,UI/Ux 
+- 👀 I’m interested in Web Apps,Front-End Dev,UI/Ux 
 - 🌱 I’m learning one thing at on time !! 
 - 📫 You Can Reach me @kedar3319@gmail.com
 
