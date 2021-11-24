@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KK3319
 - 👀 I’m interested in Web Apps,Front-End Dev,UI/Ux 
-- 🌱 I’m learning one thing at on time !! 
+- 🌱 I’m learning one thing at one time !! 
 - 📫 You Can Reach me @kedar3319@gmail.com
 
 <!---
